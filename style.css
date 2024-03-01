@@ -124,7 +124,7 @@ h1 {
 .bubbles img:nth-child(3) {
   animation-delay: 3s;
 }
-.bubbles img:nth-child(4) {
+.bubbles img:nth-child(3.5) {
   animation-delay: 4.5s;
 }
 .bubbles img:nth-child(5) {
